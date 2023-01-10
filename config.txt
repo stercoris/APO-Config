@@ -1,0 +1,6 @@
+Device:      Speakers SteelSeries Arctis 1 Wireless {f2f3a97e-9c2d-4810-83d1-7c47a372a600}
+Include: steelseries_config_outp.txt
+Device: Analogue 1 + 2 Focusrite USB Audio {4061b5ee-f48e-41e2-94da-8b6442e492b5}
+Include: mic_config.txt
+Device:  
+Include: bd770pro.txt
