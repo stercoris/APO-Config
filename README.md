@@ -1,4 +1,4 @@
-# API Config for my setup
+# [Equalizer APO](https://equalizerapo.com/#installation) Config for my setup
 
 ## mic_config.txt(`AT-2020`): 
  - [Marvel GEQ](https://www.voxengo.com/product/marvelgeq/) - graphic equalizer
